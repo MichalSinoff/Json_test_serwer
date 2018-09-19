@@ -1,0 +1,709 @@
+{
+"provider": {},
+"map": {
+"mode": "competitive",
+"name": "de_inferno",
+"phase": "live",
+"round": 13,
+"team_ct": {
+"score": 5,
+"name": "TeamWild",
+"flag": "BR",
+"timeouts_remaining": 1,
+"matches_won_this_series": 0
+},
+"team_t": {
+"score": 8,
+"name": "C4 Gaming",
+"flag": "BR",
+"timeouts_remaining": 1,
+"matches_won_this_series": 0
+},
+"num_matches_to_win_series": 0,
+"current_spectators": 3,
+"souvenirs_total": 0,
+"round_wins": {
+"1": "t_win_bomb",
+"2": "t_win_bomb",
+"3": "t_win_bomb",
+"4": "t_win_elimination",
+"5": "t_win_bomb",
+"6": "t_win_bomb",
+"7": "ct_win_defuse",
+"8": "ct_win_elimination",
+"9": "t_win_bomb",
+"10": "ct_win_time",
+"11": "ct_win_elimination",
+"12": "ct_win_elimination",
+"13": "t_win_bomb"
+}
+},
+"round": {
+"phase": "live"
+},
+"bomb": {
+"state": "dropped",
+"position": "213.13, 1260.03, 98.59"
+},
+"player": {
+"steamid": "1",
+"name": "Gamers Club TV",
+"activity": "playing"
+},
+"allplayers": {
+"76561198042462102": {
+"clan": "FAVELA-",
+"name": "★ ① KHTEXy",
+"observer_slot": 1,
+"team": "CT",
+"state": {
+"health": 0,
+"armor": 0,
+"helmet": false,
+"flashed": 2,
+"burning": 0,
+"money": 2850,
+"round_kills": 0,
+"round_killhs": 0,
+"round_totaldmg": 27,
+"equip_value": 5350
+},
+"match_stats": {
+"kills": 4,
+"assists": 0,
+"deaths": 10,
+"mvps": 1,
+"score": 8
+},
+"weapons": {}
+},
+"76561197969994754": {
+"clan": "С4 Gaming",
+"name": "★ ⑳ SpyDaemoN",
+"observer_slot": 6,
+"team": "T",
+"state": {
+"health": 100,
+"armor": 99,
+"helmet": true,
+"flashed": 0,
+"burning": 0,
+"money": 2850,
+"round_kills": 0,
+"round_killhs": 0,
+"round_totaldmg": 0,
+"equip_value": 5300
+},
+"match_stats": {
+"kills": 2,
+"assists": 0,
+"deaths": 10,
+"mvps": 1,
+"score": 10
+},
+"weapons": {
+"weapon_0": {
+"name": "weapon_knife_karambit",
+"paintkit": "am_doppler_phase2",
+"type": "Knife",
+"state": "holstered"
+},
+"weapon_1": {
+"name": "weapon_glock",
+"paintkit": "cu_glock-liquescent",
+"type": "Pistol",
+"ammo_clip": 20,
+"ammo_clip_max": 20,
+"ammo_reserve": 120,
+"state": "holstered"
+},
+"weapon_2": {
+"name": "weapon_ak47",
+"paintkit": "gs_ak47_empress",
+"type": "Rifle",
+"ammo_clip": 30,
+"ammo_clip_max": 30,
+"ammo_reserve": 90,
+"state": "holstered"
+},
+"weapon_3": {
+"name": "weapon_incgrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_4": {
+"name": "weapon_smokegrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "active"
+},
+"weapon_5": {
+"name": "weapon_hegrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+}
+}
+},
+"76561197961460718": {
+"clan": "С4 Gaming",
+"name": "★ ⑳ ALLE",
+"observer_slot": 7,
+"team": "T",
+"state": {
+"health": 15,
+"armor": 67,
+"helmet": true,
+"flashed": 0,
+"burning": 0,
+"money": 3200,
+"round_kills": 1,
+"round_killhs": 1,
+"round_totaldmg": 156,
+"equip_value": 5100
+},
+"match_stats": {
+"kills": 10,
+"assists": 3,
+"deaths": 7,
+"mvps": 0,
+"score": 29
+},
+"weapons": {
+"weapon_0": {
+"name": "weapon_knife_m9_bayonet",
+"paintkit": "am_gamma_doppler_phase1",
+"type": "Knife",
+"state": "holstered"
+},
+"weapon_1": {
+"name": "weapon_glock",
+"paintkit": "am_ddpatdense_silver",
+"type": "Pistol",
+"ammo_clip": 20,
+"ammo_clip_max": 20,
+"ammo_reserve": 120,
+"state": "holstered"
+},
+"weapon_2": {
+"name": "weapon_ak47",
+"paintkit": "cu_ak47_point_disarray",
+"type": "Rifle",
+"ammo_clip": 13,
+"ammo_clip_max": 30,
+"ammo_reserve": 90,
+"state": "holstered"
+},
+"weapon_3": {
+"name": "weapon_smokegrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_4": {
+"name": "weapon_flashbang",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "active"
+}
+}
+},
+"76561197995102212": {
+"name": "★ ⑳ tatazin",
+"observer_slot": 2,
+"team": "CT",
+"state": {
+"health": 100,
+"armor": 100,
+"helmet": true,
+"defusekit": true,
+"flashed": 0,
+"burning": 0,
+"money": 0,
+"round_kills": 0,
+"round_killhs": 0,
+"round_totaldmg": 0,
+"equip_value": 5800
+},
+"match_stats": {
+"kills": 5,
+"assists": 0,
+"deaths": 4,
+"mvps": 1,
+"score": 12
+},
+"weapons": {
+"weapon_0": {
+"name": "weapon_knife_karambit",
+"paintkit": "gs_karam_autotronic",
+"type": "Knife",
+"state": "holstered"
+},
+"weapon_1": {
+"name": "weapon_usp_silencer",
+"paintkit": "cu_usp_cut",
+"type": "Pistol",
+"ammo_clip": 12,
+"ammo_clip_max": 12,
+"ammo_reserve": 24,
+"state": "holstered"
+},
+"weapon_2": {
+"name": "weapon_m4a1",
+"paintkit": "default",
+"type": "Rifle",
+"ammo_clip": 30,
+"ammo_clip_max": 30,
+"ammo_reserve": 90,
+"state": "holstered"
+},
+"weapon_3": {
+"name": "weapon_smokegrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "active"
+},
+"weapon_4": {
+"name": "weapon_incgrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_5": {
+"name": "weapon_flashbang",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+}
+}
+},
+"76561198139312718": {
+"name": "★ ⑳ land1n",
+"observer_slot": 3,
+"team": "CT",
+"state": {
+"health": 100,
+"armor": 100,
+"helmet": true,
+"flashed": 0,
+"burning": 0,
+"money": 100,
+"round_kills": 0,
+"round_killhs": 0,
+"round_totaldmg": 0,
+"equip_value": 6650
+},
+"match_stats": {
+"kills": 12,
+"assists": 0,
+"deaths": 7,
+"mvps": 1,
+"score": 24
+},
+"weapons": {
+"weapon_0": {
+"name": "weapon_knife_m9_bayonet",
+"paintkit": "hy_webs",
+"type": "Knife",
+"state": "holstered"
+},
+"weapon_1": {
+"name": "weapon_hkp2000",
+"paintkit": "cu_favela_p2000",
+"type": "Pistol",
+"ammo_clip": 13,
+"ammo_clip_max": 13,
+"ammo_reserve": 52,
+"state": "holstered"
+},
+"weapon_2": {
+"name": "weapon_awp",
+"paintkit": "am_awp_glory",
+"type": "SniperRifle",
+"ammo_clip": 10,
+"ammo_clip_max": 10,
+"ammo_reserve": 30,
+"state": "active"
+},
+"weapon_3": {
+"name": "weapon_smokegrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_4": {
+"name": "weapon_flashbang",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 2,
+"state": "holstered"
+}
+}
+},
+"76561198025578864": {
+"name": "★ ① PKL",
+"observer_slot": 4,
+"team": "CT",
+"state": {
+"health": 100,
+"armor": 100,
+"helmet": true,
+"defusekit": true,
+"flashed": 0,
+"burning": 0,
+"money": 450,
+"round_kills": 0,
+"round_killhs": 0,
+"round_totaldmg": 0,
+"equip_value": 6100
+},
+"match_stats": {
+"kills": 6,
+"assists": 2,
+"deaths": 8,
+"mvps": 1,
+"score": 14
+},
+"weapons": {
+"weapon_0": {
+"name": "weapon_knife_butterfly",
+"paintkit": "aq_blued",
+"type": "Knife",
+"state": "active"
+},
+"weapon_1": {
+"name": "weapon_usp_silencer",
+"paintkit": "cu_usp_elegant",
+"type": "Pistol",
+"ammo_clip": 12,
+"ammo_clip_max": 12,
+"ammo_reserve": 24,
+"state": "holstered"
+},
+"weapon_2": {
+"name": "weapon_m4a1",
+"paintkit": "default",
+"type": "Rifle",
+"ammo_clip": 30,
+"ammo_clip_max": 30,
+"ammo_reserve": 90,
+"state": "holstered"
+},
+"weapon_3": {
+"name": "weapon_smokegrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_4": {
+"name": "weapon_flashbang",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_5": {
+"name": "weapon_hegrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_6": {
+"name": "weapon_incgrenade",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+}
+}
+},
+"76561198099844954": {
+"clan": "KID INFELIZ",
+"name": "★ ⑳ deM0;*",
+"observer_slot": 8,
+"team": "T",
+"state": {
+"health": 70,
+"armor": 81,
+"helmet": true,
+"flashed": 0,
+"burning": 0,
+"money": 2500,
+"round_kills": 0,
+"round_killhs": 0,
+"round_totaldmg": 0,
+"equip_value": 5000
+},
+"match_stats": {
+"kills": 9,
+"assists": 3,
+"deaths": 7,
+"mvps": 0,
+"score": 26
+},
+"weapons": {
+"weapon_0": {
+"name": "weapon_knife_t",
+"paintkit": "default",
+"type": "Knife",
+"state": "holstered"
+},
+"weapon_1": {
+"name": "weapon_glock",
+"paintkit": "aq_glock_dark-fall",
+"type": "Pistol",
+"ammo_clip": 20,
+"ammo_clip_max": 20,
+"ammo_reserve": 120,
+"state": "holstered"
+},
+"weapon_2": {
+"name": "weapon_ak47",
+"paintkit": "default",
+"type": "Rifle",
+"ammo_clip": 30,
+"ammo_clip_max": 30,
+"ammo_reserve": 90,
+"state": "active"
+},
+"weapon_3": {
+"name": "weapon_molotov",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_4": {
+"name": "weapon_flashbang",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+}
+}
+},
+"76561197994068361": {
+"clan": "PROCONSP.GOV",
+"name": "★ ⑳ cqntrl '",
+"observer_slot": 9,
+"team": "T",
+"state": {
+"health": 100,
+"armor": 100,
+"helmet": true,
+"flashed": 0,
+"burning": 0,
+"money": 1700,
+"round_kills": 0,
+"round_killhs": 0,
+"round_totaldmg": 0,
+"equip_value": 7150
+},
+"match_stats": {
+"kills": 7,
+"assists": 2,
+"deaths": 6,
+"mvps": 2,
+"score": 27
+},
+"weapons": {
+"weapon_0": {
+"name": "weapon_knife_t",
+"paintkit": "default",
+"type": "Knife",
+"state": "holstered"
+},
+"weapon_1": {
+"name": "weapon_p250",
+"paintkit": "sp_kimono_diamonds",
+"type": "Pistol",
+"ammo_clip": 13,
+"ammo_clip_max": 13,
+"ammo_reserve": 26,
+"state": "holstered"
+},
+"weapon_2": {
+"name": "weapon_awp",
+"paintkit": "hy_zodiac2",
+"type": "SniperRifle",
+"ammo_clip": 10,
+"ammo_clip_max": 10,
+"ammo_reserve": 30,
+"state": "holstered"
+},
+"weapon_3": {
+"name": "weapon_molotov",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_4": {
+"name": "weapon_flashbang",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 2,
+"state": "active"
+}
+}
+},
+"76561198049794434": {
+"name": "★ ⑳ De$tiNy-",
+"observer_slot": 5,
+"team": "CT",
+"state": {
+"health": 44,
+"armor": 81,
+"helmet": true,
+"flashed": 2,
+"burning": 0,
+"money": 0,
+"round_kills": 0,
+"round_killhs": 0,
+"round_totaldmg": 109,
+"equip_value": 5700
+},
+"match_stats": {
+"kills": 9,
+"assists": 2,
+"deaths": 10,
+"mvps": 1,
+"score": 20
+},
+"weapons": {
+"weapon_0": {
+"name": "weapon_knife_butterfly",
+"paintkit": "am_marble_fade",
+"type": "Knife",
+"state": "holstered"
+},
+"weapon_1": {
+"name": "weapon_usp_silencer",
+"paintkit": "cu_usp_spitfire",
+"type": "Pistol",
+"ammo_clip": 12,
+"ammo_clip_max": 12,
+"ammo_reserve": 24,
+"state": "holstered"
+},
+"weapon_2": {
+"name": "weapon_m4a1",
+"paintkit": "cu_xray_m4",
+"type": "Rifle",
+"ammo_clip": 30,
+"ammo_clip_max": 30,
+"ammo_reserve": 90,
+"state": "active"
+}
+}
+},
+"76561198005920264": {
+"clan": "С4 Gaming",
+"name": "★ ⑳ kaiG",
+"observer_slot": 0,
+"team": "T",
+"state": {
+"health": 79,
+"armor": 89,
+"helmet": true,
+"flashed": 0,
+"burning": 0,
+"money": 2750,
+"round_kills": 0,
+"round_killhs": 0,
+"round_totaldmg": 0,
+"equip_value": 5000
+},
+"match_stats": {
+"kills": 10,
+"assists": 0,
+"deaths": 5,
+"mvps": 5,
+"score": 46
+},
+"weapons": {
+"weapon_0": {
+"name": "weapon_bayonet",
+"paintkit": "aq_steel_knife",
+"type": "Knife",
+"state": "holstered"
+},
+"weapon_1": {
+"name": "weapon_glock",
+"paintkit": "default",
+"type": "Pistol",
+"ammo_clip": 20,
+"ammo_clip_max": 20,
+"ammo_reserve": 120,
+"state": "holstered"
+},
+"weapon_2": {
+"name": "weapon_ak47",
+"paintkit": "default",
+"type": "Rifle",
+"ammo_clip": 30,
+"ammo_clip_max": 30,
+"ammo_reserve": 90,
+"state": "active"
+},
+"weapon_3": {
+"name": "weapon_flashbang",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+},
+"weapon_4": {
+"name": "weapon_molotov",
+"paintkit": "default",
+"type": "Grenade",
+"ammo_reserve": 1,
+"state": "holstered"
+}
+}
+}
+},
+"phase_countdowns": {
+"phase": "live",
+"phase_ends_in": "90.9"
+},
+"previously": {
+"allplayers": {
+"76561198042462102": {
+"state": {
+"flashed": 146
+}
+},
+"76561197961460718": {
+"state": {
+"flashed": 146
+}
+},
+"76561198099844954": {
+"state": {
+"flashed": 146
+}
+},
+"76561198049794434": {
+"state": {
+"flashed": 146
+}
+}
+},
+"phase_countdowns": {
+"phase_ends_in": "91.1"
+}
+}
+}
